@@ -1,0 +1,42 @@
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>background-color</title>
+  <style>
+   body{
+    background-color: #F97CCB; 
+   } 
+   h1 {
+    background: #FF61C6; 
+    color: white; 
+    padding: 2px; 
+   }
+   p {
+    background-color: black; 
+    color: white;
+   } 
+ </head>
+    </style> 
+ </head>
+ <body link="black" vlink="#white"" alink="black" bgcolor="white"">
+
+
+    <img src="https://vk.com/doc300549958_581727001?hash=2c04fd1fc634e756c3&dl=0ff592527fa5a0dc2a" alt="Шапка">
+    
+    <h1>Добро пожаловать на сайт Carpenoxx</h1>
+<p> Здесь собраны мои работы </p>
+    
+ 
+   <p> </p>
+    
+
+ 
+ <h1>  <a href="о_нас.html">О нас </h1>. 
+    
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffi.pinterest.com%2Fpin%2F594615957038506399%2F&psig=AOvVaw3xyqMFPWL6sVANfw331sZ3&ust=1608106097209000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJieh53Ez-0CFQAAAAAdAAAAABAD" alt="ПрЫЫЫзрак">
+   </p>
+  
+    
+ <h1>  <a href="прога.html">Программа мероприятия</h1>. 
+        <img src="https://55.img.avito.st/640x480/5715876955.jpg" alt="Тыковка">
+</p>
